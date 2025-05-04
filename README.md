@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankjain06&label=Profile%20views&color=0e75b6&style=flat" alt="mayankjain06" /> </p>
 
-- 🔭 I’m currently working in **IBS Software**
+- 🔭 I’m currently working in **DOTC Technologies**
 
 - 🌱 I’m currently learning **Javascript, React JS**
 
